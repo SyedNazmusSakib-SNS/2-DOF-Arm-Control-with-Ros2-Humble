@@ -1,0 +1,6 @@
+Invoking command in '/home/sakib/ws_humble_urdf/build/urdf_humble_test': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/sakib/ws_humble_urdf/src/urdf_humble_test -DCMAKE_INSTALL_PREFIX=/home/sakib/ws_humble_urdf/install/urdf_humble_test
+Invoked command in '/home/sakib/ws_humble_urdf/build/urdf_humble_test' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/sakib/ws_humble_urdf/src/urdf_humble_test -DCMAKE_INSTALL_PREFIX=/home/sakib/ws_humble_urdf/install/urdf_humble_test
+Invoking command in '/home/sakib/ws_humble_urdf/build/urdf_humble_test': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/sakib/ws_humble_urdf/build/urdf_humble_test -- -j16 -l16
+Invoked command in '/home/sakib/ws_humble_urdf/build/urdf_humble_test' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/sakib/ws_humble_urdf/build/urdf_humble_test -- -j16 -l16
+Invoking command in '/home/sakib/ws_humble_urdf/build/urdf_humble_test': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/sakib/ws_humble_urdf/build/urdf_humble_test
+Invoked command in '/home/sakib/ws_humble_urdf/build/urdf_humble_test' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/sakib/ws_humble_urdf/build/urdf_humble_test
